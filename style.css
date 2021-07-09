@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
 h1 {
-  font-family: "Lato", sans-serif;
+  font-family: "Lato";
   font-weight: 900px;
 }
 p {
-  font-family: "Lato", Helvetica, sans-serif;
+  font-family: "Lato";
 }
 div#desc-container {
   width: 1200px;
