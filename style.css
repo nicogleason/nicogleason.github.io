@@ -6,5 +6,5 @@ p {
   font-family: Arial, Helvetica, sans-serif;
 }
 #desc-container {
-  width: 1200px;
+  width: 1200px !important;
 }
