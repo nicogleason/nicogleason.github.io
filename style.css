@@ -1,7 +1,7 @@
 h1 {
-  font-family: "Monsterrat";
+  font-family: "Monsterrat", sans-serif;
   font-weight: Bold;
 }
 p {
-  font-family: Arial;
+  font-family: Arial, Helvetica, sans-serif;
 }
