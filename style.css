@@ -7,7 +7,7 @@ p {
   font-family: "Heebo";
 }
 div#desc-container {
-  margin: 0 25% 0 25%;
+  padding: 0 25% 0 25%;
 }
 div#main-header {
   background-color: #3F72C1;
